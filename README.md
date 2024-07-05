@@ -7,4 +7,4 @@
 
 # Advertisement
 
-[https://x.com/mesugaki_game](https://x.com/mesugaki_game) 
+[https://x.com/mesugaki_game](https://x.com/mesugaki_game)
