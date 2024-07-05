@@ -5,6 +5,11 @@
 
 # Example
 
+# ToDo
+
+- そもそもこの方針でいいのか確認する
+- Levelはどれくらいを想定しているのか確認する
+
 # Advertisement
 
 [https://x.com/mesugaki_game](https://x.com/mesugaki_game)
